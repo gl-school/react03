@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.da8fa3de.css",
-    "main.js": "/react-gh-pages/static/js/main.e15d069d.js",
-    "static/js/453.b0d5aeb4.chunk.js": "/react-gh-pages/static/js/453.b0d5aeb4.chunk.js",
-    "static/media/gen.jpg": "/react-gh-pages/static/media/gen.287b0952f7946946b4d3.jpg",
-    "static/media/thought.jpg": "/react-gh-pages/static/media/thought.67026ec386edbe9d83fe.jpg",
-    "static/media/aware.jpg": "/react-gh-pages/static/media/aware.0e7b28b2a2adc41f8651.jpg",
-    "static/media/bc2.jpg": "/react-gh-pages/static/media/bc2.3b77210cf5d9d3dd035e.jpg",
-    "static/media/logo-w.png": "/react-gh-pages/static/media/logo-w.39f3eb29aa1dcb802dac.png",
-    "static/media/message.png": "/react-gh-pages/static/media/message.634357c2a5ad1a7674d3.png",
-    "static/media/user.png": "/react-gh-pages/static/media/user.c920752422c11377083e.png",
-    "static/media/plus.png": "/react-gh-pages/static/media/plus.de5108eee4fc839cf66f.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.da8fa3de.css.map": "/react-gh-pages/static/css/main.da8fa3de.css.map",
-    "main.e15d069d.js.map": "/react-gh-pages/static/js/main.e15d069d.js.map",
-    "453.b0d5aeb4.chunk.js.map": "/react-gh-pages/static/js/453.b0d5aeb4.chunk.js.map"
+    "main.css": "/react03/static/css/main.da8fa3de.css",
+    "main.js": "/react03/static/js/main.d2671192.js",
+    "static/js/453.b0d5aeb4.chunk.js": "/react03/static/js/453.b0d5aeb4.chunk.js",
+    "static/media/gen.jpg": "/react03/static/media/gen.287b0952f7946946b4d3.jpg",
+    "static/media/thought.jpg": "/react03/static/media/thought.67026ec386edbe9d83fe.jpg",
+    "static/media/aware.jpg": "/react03/static/media/aware.0e7b28b2a2adc41f8651.jpg",
+    "static/media/bc2.jpg": "/react03/static/media/bc2.3b77210cf5d9d3dd035e.jpg",
+    "static/media/logo-w.png": "/react03/static/media/logo-w.39f3eb29aa1dcb802dac.png",
+    "static/media/message.png": "/react03/static/media/message.634357c2a5ad1a7674d3.png",
+    "static/media/user.png": "/react03/static/media/user.c920752422c11377083e.png",
+    "static/media/plus.png": "/react03/static/media/plus.de5108eee4fc839cf66f.png",
+    "index.html": "/react03/index.html",
+    "main.da8fa3de.css.map": "/react03/static/css/main.da8fa3de.css.map",
+    "main.d2671192.js.map": "/react03/static/js/main.d2671192.js.map",
+    "453.b0d5aeb4.chunk.js.map": "/react03/static/js/453.b0d5aeb4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.da8fa3de.css",
-    "static/js/main.e15d069d.js"
+    "static/js/main.d2671192.js"
   ]
 }
